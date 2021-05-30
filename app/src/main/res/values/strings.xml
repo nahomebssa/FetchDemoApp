@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchDemoApp</string>
+    <string name="list_header">List &lt;listId&gt;</string>
+</resources>
